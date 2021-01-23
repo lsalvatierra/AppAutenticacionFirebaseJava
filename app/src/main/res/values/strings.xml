@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppAutenticacionFirebase</string>
+    <string name="valtitulo">AUTENTICACIÓN FIREBASE</string>
+    <string name="valetusuario">Ingrese su correo electrónico</string>
+    <string name="valetpassword">Ingrese su password.</string>
+    <string name="valbtnloginfirebase">Ingresar</string>
+</resources>

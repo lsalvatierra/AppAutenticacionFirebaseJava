@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655314117208",
+    "project_id": "proyectoautenticacion-26a40",
+    "storage_bucket": "proyectoautenticacion-26a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655314117208:android:d94d2b61d6eaf5fc13a02d",
+        "android_client_info": {
+          "package_name": "edu.pe.idat.appautenticacionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655314117208-q0pv1ubo8n20tebks90kmvfl1nag2pb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.pe.idat.appautenticacionfirebase",
+            "certificate_hash": "05d59dce9b5e0da5a1b636398caec6e7e607019f"
+          }
+        },
+        {
+          "client_id": "655314117208-eue04aua6481bvo1tv3vb4fqv46kjc7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8pPMwS9o5agTcienten44RnME56bjxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655314117208-eue04aua6481bvo1tv3vb4fqv46kjc7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
